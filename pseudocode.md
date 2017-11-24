@@ -1,4 +1,4 @@
-1.1. DEFINISIKAN sebuah function bernama "hangman" yang berisikan sebuah game
+1. 1. DEFINISIKAN sebuah function bernama "hangman" yang berisikan sebuah game
 1. 2. SIMPAN sekumpulan array kata 
 1. 3. PILIH kata secara acak
 1. 4. SIAPKAN array untuk tebakan  
